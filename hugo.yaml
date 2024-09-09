@@ -63,9 +63,9 @@ params:
   homeInfoParams:
     Title: Hsin-Ying Lee 李信穎
     Content: >
-      I am a visiting student at the University of California, Merced, working on generation, fortunate to be advised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang). 
+      I am a PhD student at the University of California, Merced, working on generation, fortunate to be advised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang). 
       Previously, I worked on visual-language learning with Prof. [Winston Hsu](https://winstonhsu.info) at Nataional Taiwan University. 
-      I'm interested in developing intelligence that can interact with human. My research areas are computer vision, partially at the intersection of natural language processing and human-computer interaction. 
+      I'm interested in developing intelligence that can interact with human. My research areas are computer vision, partially at the intersection of natural language processing. 
     imageUrl: "imgs/profile.jpg"
     imageTitle: profile
     imageWidth: 120
