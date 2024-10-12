@@ -1,5 +1,5 @@
 baseURL: "https://shinying.github.io/"
-title: Hsin-Ying Lee
+title: Lee Hsin-Ying
 paginate: 20
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Hsin-Ying Lee 李信穎
+  title: Lee Hsin-Ying 李信穎
   description: "Student researcher"
   keywords: ["computer vision", "machine learning", "researcher"]
   author: Me
@@ -61,11 +61,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Hsin-Ying Lee 李信穎
+    Title: Lee Hsin-Ying 李信穎
     Content: >
-      I am a PhD student at the University of California, Merced, working on generation, fortunate to be advised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang). 
+      I am a PhD student at the University of California Merced advised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang).
+      My current research topics are in generation.
       Previously, I worked on visual-language learning with Prof. [Winston Hsu](https://winstonhsu.info) at Nataional Taiwan University. 
-      I'm interested in developing intelligence that can interact with human. My research areas are computer vision, partially at the intersection of natural language processing. 
+      I'm interested in developing intelligence that can interact with human. My research areas are computer vision, partially at the intersection of natural language processing.
     imageUrl: "imgs/profile.jpg"
     imageTitle: profile
     imageWidth: 120
