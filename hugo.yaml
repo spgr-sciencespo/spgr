@@ -79,7 +79,7 @@ params:
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=_B6D-wkAAAAJ"
     - name: linkedin
-      url: "https://www.linkedin.com/in/shinyinglee"
+      url: "https://www.linkedin.com/in/hsinyinglee"
 
   analytics:
     google:
