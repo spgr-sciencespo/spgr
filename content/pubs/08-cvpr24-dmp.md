@@ -5,7 +5,7 @@ analytics: G-YB3Q1S2K44
 date: 2023-11-30
 venue: CVPR 2024
 authors:
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Hung-Yu Tseng
     home: https://hytseng0509.github.io

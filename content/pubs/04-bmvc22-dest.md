@@ -6,7 +6,7 @@ analytics: G-4GCHH446BE
 date: 2022-11-21
 venue: BMVC 2022 <b style="color:blueviolet">(spotlight)</b>
 authors:
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Hung-Ting Su 
     home: https://scholar.google.com/citations?user=5oNVau8AAAAJ
