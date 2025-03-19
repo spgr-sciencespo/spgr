@@ -1,7 +1,7 @@
 ---
 title: Learning Fine-Grained Visual Understanding for Video Question Answering via Decoupling Spatial-Temporal Modeling
 page_title: Decoupling Spatial-Temporal Modeling
-summary: A double-stream video-language encoder.
+summary: A double-stream video-language encoder
 analytics: G-4GCHH446BE
 date: 2022-11-21
 venue: BMVC 2022 <b style="color:blueviolet">(spotlight)</b>

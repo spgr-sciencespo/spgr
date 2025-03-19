@@ -22,5 +22,5 @@ page_video: "#video-section"
 cover:
   image: imgs/dmp.jpg
 summary:
-  A universal transferring framework.
+  A universal transferring framework
 ---
