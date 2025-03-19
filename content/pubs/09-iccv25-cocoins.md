@@ -2,7 +2,7 @@
 title: Consistent Subject Generation via Contrastive Instantiated Concepts
 # page_title: 
 # analytics: 
-date: 2025-03-30
+date: 2025-03-18
 venue: 
 authors:
   - name: <strong>Lee Hsin-Ying</strong>
@@ -18,7 +18,7 @@ code: https://github.com/contrastive-concept-instantiation/cocoins
 video: 
 # page_video: "#video-section"
 cover:
-  image: imgs/dmp.jpg
+  image: imgs/cocoins.jpg
 summary:
-  Reference-free subject consistent generation across multiple creations
+  Generating consistent subjects across multiple creations
 ---
