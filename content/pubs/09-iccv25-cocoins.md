@@ -12,7 +12,7 @@ authors:
   - name: Ming-Hsuan Yang
     home: https://faculty.ucmerced.edu/mhyang
 selected: true
-arxiv: 
+arxiv: https://arxiv.org/abs/2503.24387
 page: https://contrastive-concept-instantiation.github.io
 code: https://github.com/contrastive-concept-instantiation/cocoins
 video: 

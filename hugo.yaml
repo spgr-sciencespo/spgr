@@ -1,6 +1,7 @@
 baseURL: "https://shinying.github.io/"
 title: Lee Hsin-Ying
-paginate: 20
+pagination: 
+  pagerSize: 20
 theme: PaperMod
 
 enableRobotsTXT: true
