@@ -63,11 +63,14 @@ params:
   # home-info mode
   homeInfoParams:
     Title: Lee Hsin-Ying 李信穎
-    Content: >
+    Content: |
       I am a first-year PhD student at the University of California Merced advised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang).
       My current research topics are in generation.
       Previously, I worked on visual-language learning with Prof. [Winston Hsu](https://winstonhsu.info) at Nataional Taiwan University. 
-      I'm interested in developing intelligence that can interact with human. My research areas are computer vision, partially at the intersection of natural language processing.
+      I'm interested in developing intelligence that can interact with human. 
+      My research areas are computer vision, partially at the intersection of natural language processing.
+      
+      **I'm looking for 2025 summer internships. If you are interested in my profile, please feel free to contact me via email.**
     imageUrl: "imgs/profile.jpg"
     imageTitle: profile
     imageWidth: 120
