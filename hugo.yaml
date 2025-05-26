@@ -21,7 +21,7 @@ params:
   description: "Student researcher"
   keywords: ["computer vision", "machine learning", "researcher"]
   author: Me
-  images: ["imgs/cover.svg"]
+  images: ["imgs/profile.jpg"]
   defaultTheme: light
   disableThemeToggle: false
 
