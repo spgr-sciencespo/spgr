@@ -1,3 +1,4 @@
 ---
-type: pub 
+type: pub
+layout: dest
 ---
