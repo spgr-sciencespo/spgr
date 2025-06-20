@@ -6,7 +6,7 @@ authors:
   - name: Bo-Siang Lu
   - name: Tung-I Chen
     home: https://tung-i.github.io
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Winston Hsu
     home: https://winstonhsu.info

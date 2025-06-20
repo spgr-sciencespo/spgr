@@ -7,12 +7,13 @@ authors:
     home: https://tsunghan-wu.github.io
   - name: Yi-Syuan Liou
   - name: Shao-Ji Yuan
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Tung-I Chen
     home: https://tung-i.github.io
   - name: Kuan-Chih Huang
   - name: Winston Hsu
     home: https://winstonhsu.info
+selected: true
 arxiv: https://arxiv.org/abs/2202.06484
 ---

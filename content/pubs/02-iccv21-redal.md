@@ -8,11 +8,12 @@ authors:
   - name: Yueh-Cheng Liu
     home: https://liu115.github.io
   - name: Yu-Kai Huang
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Hung-Ting Su
   - name: Ping-Chia Huang
   - name: Winston H. Hsu
     home: https://winstonhsu.info
+selected: true
 arxiv: https://arxiv.org/abs/2107.11769
 ---

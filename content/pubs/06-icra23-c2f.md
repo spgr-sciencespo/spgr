@@ -6,7 +6,7 @@ authors:
   - name: Cheng-Wei Lin
   - name: Tung-I Chen
     home: https://tung-i.github.io
-  - name: <strong>Hsin-Ying Lee</strong>
+  - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
   - name: Wen-chin Chen
   - name: Winston Hsu
