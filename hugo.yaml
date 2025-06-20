@@ -111,9 +111,9 @@ menu:
     - name: Publications
       url: pubs
       weight: 10
-    - name: Projects 
-      url: projects
-      weight: 20
+    # - name: Projects 
+    #   url: projects
+    #   weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
