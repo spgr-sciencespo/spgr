@@ -76,7 +76,7 @@ params:
   
   socialIcons:
     - name: email
-      url: "mailto:hlee307[at]ucmerced.edu"
+      url: "mailto:hlee307@ucmerced.edu"
     - name: github
       url: "https://github.com/shinying"
     - name: googlescholar
