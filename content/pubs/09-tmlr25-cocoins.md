@@ -3,7 +3,7 @@ title: Consistent Subject Generation via Contrastive Instantiated Concepts
 # page_title: 
 # analytics: 
 date: 2025-03-18
-venue: 
+venue: TMLR 2025
 authors:
   - name: <strong>Lee Hsin-Ying</strong>
     home: "#"
