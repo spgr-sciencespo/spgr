@@ -8,9 +8,9 @@ website:
   page-navigation: true
   title: "Data Science in a Box"
   description: "Data Science in a Box contains the materials required to teach (or learn from) the course described above, all of which are freely-available and open-source."
-  site-url: "https://datasciencebox.org/"
+  site-url: "https://spgr.github.io/"
   
-  repo-url: https://github.com/rstudio-education/datascience-box
+  repo-url: https://github.com/spgr-sciencespo/spgr
   repo-actions: [edit, issue]
 
   open-graph: true
