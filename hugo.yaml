@@ -1,4 +1,4 @@
-baseURL: "https://shinying.github.io/"
+baseURL: "https://spgr-sciencespo.github.io/spgr"
 title: Lee Hsin-Ying
 pagination: 
   pagerSize: 20
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Lee Hsin-Ying 李信穎
+  title: Sciences Po Graduate Review
   description: "Student researcher"
   keywords: ["computer vision", "machine learning", "researcher"]
   author: Me
